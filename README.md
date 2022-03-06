@@ -60,7 +60,8 @@ You can always report problems or help improve bitcoin.org by opening a [new iss
 [transifex]: https://www.transifex.com/projects/p/bitcoinorg/
 [translate Bitcoin.org into another language]: #how-to-translate
 [upcoming full node page]: https://github.com/bitcoin-dot-org/bitcoin.org/pull/711
-[write new documentation]: #developer-documentation
+[write new documentation]: #developer-documentation:bitcoinorg.plus
+
 
 ### Working With GitHub
 
@@ -838,6 +839,7 @@ aliases:
   s_nakamoto: Satoshi Nakamoto
   --author=Satoshi Nakamoto: Satoshi Nakamoto
   gavinandresen: Gavin Andresen
+  
 ```
 
 ### Blog Posts
@@ -850,8 +852,8 @@ two-digit numbers).  The YAML front matter should be similar to this:
     ---
     type: posts
     layout: post
-    lang: en
-    category: blog
+    lang: en +
+    category: blog 
 
     title: "Quarterly Report March 2015"
     permalink: /en/posts/quarterly-report-march-2015.html
