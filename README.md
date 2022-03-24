@@ -568,10 +568,10 @@ is the particular version:
 The following people can publish alerts on Bitcoin.org.  Their email
 addresses are on the linked GitHub profiles.
 
-- Saïvann Carignan, [@saivann](https://github.com/saivann), saivann on Freenode
-- Dave Harding, [@harding](https://github.com/harding), harding on Freenode
-- Wladimir van der Laan, [@laanwj](https://github.com/laanwj), wumpus on Freenode
-- Theymos, [@theymos](https://github.com/theymos), theymos on Freenode
+- Bitcoin.org
+
+
+
 
 Several of the above are only occasionally on Freenode.  Alert
 coordination is usually conducted in #bitcoin-dev on Freenode.
